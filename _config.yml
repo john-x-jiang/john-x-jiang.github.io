@@ -24,18 +24,18 @@ author:
   avatar           : "profile.png"
   name             : "Xiajun Jiang, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Rochester"
+  bio              : # ""
+  location         : "Rochester, NY"
   employer         : "Rochester Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xj7056 at rit dot edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
