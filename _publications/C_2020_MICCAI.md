@@ -6,7 +6,5 @@ permalink: /publication/C_2020_MICCAI
 date: 2020-09-29
 venue: 'International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)'
 paperurl: 'https://doi.org/10.1007/978-3-030-59725-2_47'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Jiang, Xiajun, et al. "Learning geometry-dependent and physics-based inverse image reconstruction." Medical Image Computing and Computer Assisted Intervention–MICCAI 2020: 23rd International Conference, Lima, Peru, October 4–8, 2020, Proceedings, Part VI 23. Springer International Publishing, 2020.'
 ---
-
-In *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2020
