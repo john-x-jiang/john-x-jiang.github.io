@@ -8,13 +8,14 @@ date: 2024-08-01
 location: "Memphis, TN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<!-- This is a description of a teaching experience. You can use markdown like any other post. -->
 
-Heading 1
+Syllabus
 ======
+Please find the detailed syllabus [here](https://john-x-jiang.github.io/teaching/2014-fall-ML).
 
-Heading 2
+<!-- Heading 2
 ======
 
 Heading 3
-======
+====== -->
