@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Xiajun Jiang's Homepage"
 title_separator          : "-"
-name                     : &name "Xiajun Jiang,Ph.D."
+name                     : &name "Xiajun Jiang, PhD"
 description              : &description "personal description"
 url                      : https://john-x-jiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
