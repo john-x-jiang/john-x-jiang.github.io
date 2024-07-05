@@ -11,4 +11,4 @@ I will join the [Department of Computer Science](https://www.memphis.edu/cs/) at
 
 My research interests lie within a broad area of machine learning and health care. More specifically, my research focuses on interdisciplinary directions of adaptive computing in AI models, physics-informed deep learning, and their applications on health care.
 
-**NOTE: I am looking for multiple PhD students at the University of Memphis starting in Spring 2025. More details can be found [here](https://john-x-jiang.github.io/join).**
+<span style="color:red">NOTE: I am looking for multiple PhD students at the University of Memphis starting in Spring 2025. More details can be found [here](https://john-x-jiang.github.io/join_us).</span>

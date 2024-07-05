@@ -1,5 +1,5 @@
 ---
-permalink: /join/
+permalink: /join_us/
 title: "Join Us"
 author_profile: true
 redirect_from: 
