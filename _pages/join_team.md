@@ -3,8 +3,8 @@ permalink: /non-menu-page/
 title: "Join Us"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/join/"
+  - "/join.html"
 ---
 
 Openings
