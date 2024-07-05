@@ -9,7 +9,7 @@ redirect_from:
 
 Openings
 ======
-Multiple PhD positions with full financial support starting in spring 2025 are available in my lab. If you are interested in adaptive AI computing and its application in health care, you are encouraged to apply. Particular interested & ongoing research projects include:
+Multiple PhD positions with **full financial support** starting in spring 2025 are available in my lab. If you are interested in adaptive AI computing and its application in health care, you are encouraged to apply. Particular interested & ongoing research projects include:
 * Meta-learning & Adaptation
 * Federated learning
 * Hybrid modeling
