@@ -11,4 +11,4 @@ I will join the [Department of Computer Science](https://www.memphis.edu/cs/) at
 
 My research interests lie within a broad area of machine learning and health care. More specifically, my research focuses on interdisciplinary directions of adaptive computing in AI models, physics-informed deep learning, and their applications on health care.
 
-<font style="color:red">NOTE:</font> I am looking for students broadly interested in the development of cutting-edge adaptive machine learning methods with applications in health care. BS or MS students with a background in computer science, computer engineering, electrical engineering, applied mathematics / statistics, or related areas are welcome to apply. Applicants are encouraged to send me a copy of **CV** and **transcripts** to <font style="color:blue">Xiajun [dot] Jiang [at] memphis [dot] edu</font> [test](https://john-x-jiang.github.io/contact).
+<font style="color:red">**NOTE: I am looking for multiple at the University of Memphis starting in Spring 2025. More details can be found [here](https://john-x-jiang.github.io/join).**</font>
