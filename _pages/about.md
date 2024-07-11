@@ -15,4 +15,4 @@ My research interests lie within a broad area of **machine learning** and **heal
 2. Integrating physics on deep learning models with application on electrocardiographic imaging ([TMI 24](https://ieeexplore.ieee.org/abstract/document/10471622), [TMI 23](https://ieeexplore.ieee.org/abstract/document/9932432), [MICCAI 21](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_35), [MICCAI 20](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_47))
 3. Identifiable hybrid modeling ([arxiv 24](https://arxiv.org/pdf/2403.15433))
 
-<span style="color:red">**NOTE: I am looking for multiple PhD students at the University of Memphis starting in Spring 2025. More details can be found [here](https://john-x-jiang.github.io/join_us).**</span>
+<span style="color:red">**NOTE: I am looking for multiple PhD students at the University of Memphis starting in Spring 2025 and voluntary intern students since Fall 2024. More details can be found [here](https://john-x-jiang.github.io/join_us).**</span>

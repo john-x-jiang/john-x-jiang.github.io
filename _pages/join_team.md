@@ -19,7 +19,7 @@ Multiple PhD positions with **full financial support** starting in spring 2025 a
 Prospective Students
 ======
 
-I am looking for students broadly interested in the development of cutting-edge adaptive machine learning methods with applications in health care. BS or MS students with a background in computer science, computer engineering, electrical engineering, applied mathematics / statistics, or related areas are welcome to apply. The hard deadline for Spring admission is **Dec. 1, 2024**. For prospective students, you should check [admission requirements](https://www.memphis.edu/cs/future_students/graduate.php) from the Graduate School. Applicants are also encouraged to send me a copy of **CV** and **transcripts** to <font style="color:blue">Xiajun [dot] Jiang [at] memphis [dot] edu</font> with the subject line "Prospective PhD Student".
+I am looking for students broadly interested in the development of cutting-edge adaptive machine learning methods with applications in health care. BS or MS students with a background in computer science, computer engineering, electrical engineering, applied mathematics / statistics, or related areas are welcome to apply. For prospective Ph.D. students, the hard deadline for Spring admission is **Dec. 1, 2024**. you should check [admission requirements](https://www.memphis.edu/cs/future_students/graduate.php) from the Graduate School. Applicants are also encouraged to send me a copy of **CV** and **transcripts** to <font style="color:blue">Xiajun [dot] Jiang [at] memphis [dot] edu</font> with the subject line "Prospective PhD Student".
 
 About University
 ======
