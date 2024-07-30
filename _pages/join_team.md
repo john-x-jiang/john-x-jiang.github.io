@@ -16,10 +16,22 @@ Multiple PhD positions with **full financial support** starting in spring 2025 a
 * Biomedical Image Analysis
 * Cardiac Electrophysiology
 
+Please find more details in my [thesis](https://repository.rit.edu/cgi/viewcontent.cgi?article=12864&context=theses) and my [publication list](https://john-x-jiang.github.io/publications/).
+
 Prospective Students
 ======
 
-I am looking for students broadly interested in the development of cutting-edge adaptive machine learning methods with applications in health care. BS or MS students with a background in computer science, computer engineering, electrical engineering, applied mathematics / statistics, or related areas are welcome to apply. For prospective Ph.D. students, the hard deadline for Spring admission is **Dec. 1, 2024**. you should check [admission requirements](https://www.memphis.edu/cs/future_students/graduate.php) from the Graduate School. Applicants are also encouraged to send me a copy of **CV** and **transcripts** to <font style="color:blue">Xiajun [dot] Jiang [at] memphis [dot] edu</font> with the subject line "Prospective PhD Student".
+I am looking for students broadly interested in the development of cutting-edge adaptive machine learning methods with applications in health care. Students with a background in computer science, computer engineering, electrical engineering, applied mathematics / statistics, or related areas are welcome to apply. Applicants are encouraged to send me your **CV**, **transcripts**, and **a brief discription of research interest** to <font style="color:blue">Xiajun [dot] Jiang [at] memphis [dot] edu</font> with the subject line "Prospective PhD Student".
+
+* If you are a *current or admitted student at UM*, please email me following the instruction above.
+
+* If you are *not yet a student at UM and would like to pursue a PhD under my guidance*, please apply to our [PhD program in Computer Science](https://www.memphis.edu/cs/about/index.php) and mention my name in your statements and applications. Please check [admission requirements](https://www.memphis.edu/cs/future_students/graduate.php) from the Graduate School for more details. The hard deadline for Spring admission is **Dec. 1, 2024**. 
+
+
+Collaborations
+======
+I am also open to research collaboration with students and faculty both within UM and elsewhere. If you are interested in collaborating with me and my group, please email me with a brief description of your research interests and background.
+
 
 About University
 ======
