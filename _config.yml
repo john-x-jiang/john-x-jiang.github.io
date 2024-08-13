@@ -25,8 +25,8 @@ author:
   name             : "Xiajun Jiang, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : # ""
-  location         : "Rochester, NY"
-  employer         : "Rochester Institute of Technology"
+  # location         : "Rochester, NY"
+  # employer         : "Rochester Institute of Technology"
   uri              : # URL
   email            : # "xj7056@rit.edu"
 
