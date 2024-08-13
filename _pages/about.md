@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join the [Department of Computer Science](https://www.memphis.edu/cs/) at the University of Memphis as a tenure-track assistant professor in Fall 2024. Before that, I received my Ph.D. degree in Computing and Information Sciences at [Computational Biomedical Lab (CBL)](https://pht180.rit.edu/cblwang/) from Rochester Insitute of Technology in 2024, advised by [Dr. Linwei Wang](https://pht180.rit.edu/cblwang/linwei-wang/). I earned my master's degree in Computer Science from the University of Southern California and bachelor's degree in Electrical Engineering and Automation from the Zhejiang University.
+I am an incoming tenure-track assistant professor at the [Department of Computer Science](https://www.memphis.edu/cs/) in the University of Memphis starting from Fall 2024. Before that, I received my Ph.D. degree in Computing and Information Sciences at [Computational Biomedical Lab (CBL)](https://pht180.rit.edu/cblwang/) from Rochester Insitute of Technology in 2024, advised by [Dr. Linwei Wang](https://pht180.rit.edu/cblwang/linwei-wang/). I earned my master's degree in Computer Science from the University of Southern California and bachelor's degree in Electrical Engineering and Automation from the Zhejiang University.
 
 My research interests lie within a broad area of **machine learning** and **health care**. More specifically, my research focuses on interdisciplinary directions of **adaptive computing in AI models**, **physics-informed deep learning**, and their applications on **health care**. Below are the research topics that I have been working on:
 
