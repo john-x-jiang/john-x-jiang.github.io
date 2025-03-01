@@ -1,10 +1,10 @@
 ---
-title: "COMP 4745 Introduction to Machine Learning"
+title: "COMP 7745 Machine Learning"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2024-fall-ML
+type: "Graduate course"
+permalink: /teaching/2025-spring-ML
 venue: "Department of Computer Science, University of Memphis"
-date: 2024-08-01
+date: 2025-01-01
 location: "Memphis, TN"
 ---
 
@@ -12,7 +12,7 @@ location: "Memphis, TN"
 
 Syllabus
 ======
-Please find the detailed syllabus [here](https://john-x-jiang.github.io/teaching/2024-fall-ML).
+Please find the detailed syllabus [here](https://john-x-jiang.github.io/teaching/2025-spring-ML).
 
 <!-- Heading 2
 ======
