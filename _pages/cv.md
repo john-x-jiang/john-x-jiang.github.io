@@ -48,7 +48,7 @@ Work experience
 Service and Leadership
 ======
 * **Conference Chair**:
-  * Medical Image Computing and Computer Assisted Intervention (MICCAI)
+  * Area chair: Medical Image Computing and Computer Assisted Intervention (MICCAI)
 
 * **Conference / Journal Reviewer**:
   * Conterences:
