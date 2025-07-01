@@ -57,6 +57,7 @@ Service and Leadership
     * International Conference on Machine Learning (ICML)
     * Association for the Advancement of Artificial Intelligence (AAAI)
     * Medical Image Computing and Computer Assisted Intervention (MICCAI)
+    * Functional Imaging and Modeling of the Heart (FIMH)
   * Journals:
     * Nature Communications Medicine
     * Medical Image Analysis (Elsevier)
