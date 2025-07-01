@@ -17,8 +17,11 @@ Education
 
 Work experience
 ======
-<!-- * 2024 - Present: Assistant professor
-  * University of Memphis -->
+* 2025 - Present: Assistant professor
+  * Rowan University
+
+* 2024 - 2025: Assistant professor
+  * University of Memphis
 
 * 2019 - 2024: Research Assistant
   * Rochester Institute of Technology
@@ -28,15 +31,15 @@ Work experience
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -44,17 +47,27 @@ Teaching
   
 Service and Leadership
 ======
-* **Reviewer Services**: 
-  * International Conference on Learning Representations (ICLR)
-  * Neural Information Processing Systems (NeurIPS)
-  * International Conference on Machine Learning (ICML)
+* **Conference Chair**:
   * Medical Image Computing and Computer Assisted Intervention (MICCAI)
-  * Medical Image Analysis (Elsevier)
-  * IEEE Journal of Biomedical and Health Informatics (JBHI)
-  * Frontiers in Physiology
-  * Machine Learning in Medical Imaging (MLMI)
-  * Physics in Medical and Biology (IPEM)
-  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+
+* **Conference / Journal Reviewer**:
+  * Conterences:
+    * International Conference on Learning Representations (ICLR)
+    * Neural Information Processing Systems (NeurIPS)
+    * International Conference on Machine Learning (ICML)
+    * Association for the Advancement of Artificial Intelligence (AAAI)
+    * Medical Image Computing and Computer Assisted Intervention (MICCAI)
+  * Journals:
+    * Nature Communications Medicine
+    * Medical Image Analysis (Elsevier)
+    * IEEE Journal of Biomedical and Health Informatics (JBHI)
+    * Frontiers in Physiology
+    * Machine Learning in Medical Imaging (MLMI)
+    * Biocybernetics and Biomedical Engineering
+    * Physics in Medical and Biology (IPEM)
+    * IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+    * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 * **Program Committees**: 
+  * ECGI Summit (2025)
   * Consortium for ECG Imaging (CEI) Satellite Symposium (2021, 2022)
