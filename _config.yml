@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiajun Jiang's Homepage"
+title                    : "Xiajun's Homepage"
 title_separator          : "-"
 name                     : &name "Xiajun Jiang, PhD"
 description              : &description "personal description"
@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # ""
   # location         : "Rochester, NY"
-  # employer         : "Rochester Institute of Technology"
+  employer         : "Rowan University"
   uri              : # URL
-  email            : # "xj7056@rit.edu"
+  email            : "jiangx [at] rowan [dot] edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
